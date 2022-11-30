@@ -1,4 +1,4 @@
-## Olá... Eu sou a Emelly Kelm, Desenvolvedora Full Stack Python!
+## Olá... Eu sou a Emelly Kelm, Desenvolvedora Full Stack Python, Designer Gráfica e Biomédica! 
 
 <div align="center">
   <a href="https://github.com/emellyk">
